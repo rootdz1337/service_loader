@@ -127,7 +127,3 @@ C:\path\to\service_loader.cfg     ← Service name (saved by GUI)
 
 ---
 
-
-
-Report vulnerabilities to secure@microsoft.com.
-```
